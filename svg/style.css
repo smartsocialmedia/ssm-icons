@@ -3,220 +3,147 @@
 	color: #000000;
 	fill: currentColor;
 }
-.icon-search {
+.icon-star {
 	width: 26px;
 	height: 28px;
 }
-#icon-arrow-left .path1 {
-	fill: currentcolor;
+.icon-user {
+	width: 22px;
+	height: 28px;
 }
-.icon-check {
+.icon-cog {
 	width: 28px;
 	height: 28px;
 }
-#icon-arrow-left .path1 {
-	fill: currentcolor;
-}
-.icon-times {
-	width: 22px;
+.icon-home {
+	width: 26px;
 	height: 28px;
 }
-#icon-arrow-left .path1 {
-	fill: currentcolor;
-}
-.icon-chevron-left {
-	width: 20px;
-	height: 28px;
-}
-#icon-arrow-left .path1 {
-	fill: currentcolor;
-}
-.icon-chevron-right {
-	width: 20px;
-	height: 28px;
-}
-#icon-arrow-left .path1 {
-	fill: currentcolor;
-}
-.icon-plus {
-	width: 22px;
-	height: 28px;
-}
-#icon-arrow-left .path1 {
-	fill: currentcolor;
-}
-.icon-minus {
-	width: 22px;
-	height: 28px;
-}
-#icon-arrow-left .path1 {
-	fill: currentcolor;
-}
-.icon-comment {
-	width: 28px;
-	height: 28px;
-}
-#icon-arrow-left .path1 {
-	fill: currentcolor;
-}
-.icon-bar-chart-o {
+.icon-camera {
 	width: 30px;
 	height: 28px;
 }
-#icon-arrow-left .path1 {
-	fill: currentcolor;
-}
-.icon-bell-o {
-	width: 26px;
+.icon-plus-circle {
+	width: 28px;
 	height: 28px;
 }
-#icon-arrow-left .path1 {
-	fill: currentcolor;
+.icon-minus-circle {
+	width: 28px;
+	height: 28px;
+}
+.icon-times-circle {
+	width: 28px;
+	height: 28px;
+}
+.icon-check-circle {
+	width: 28px;
+	height: 28px;
+}
+.icon-question-circle {
+	width: 28px;
+	height: 28px;
+}
+.icon-times-circle-o {
+	width: 28px;
+	height: 28px;
+}
+.icon-thumbs-o-up {
+	width: 28px;
+	height: 28px;
 }
 .icon-group {
 	width: 30px;
 	height: 28px;
 }
-#icon-arrow-left .path1 {
-	fill: currentcolor;
-}
-.icon-navicon {
-	width: 28px;
-	height: 28px;
-}
-#icon-arrow-left .path1 {
-	fill: currentcolor;
-}
 .icon-caret-down {
 	width: 16px;
 	height: 28px;
-}
-#icon-arrow-left .path1 {
-	fill: currentcolor;
 }
 .icon-caret-up {
 	width: 16px;
 	height: 28px;
 }
-#icon-arrow-left .path1 {
-	fill: currentcolor;
-}
-.icon-envelope {
-	width: 28px;
-	height: 28px;
-}
-#icon-arrow-left .path1 {
-	fill: currentcolor;
-}
-.icon-angle-left {
+.icon-caret-left {
 	width: 10px;
 	height: 28px;
 }
-#icon-arrow-left .path1 {
-	fill: currentcolor;
+.icon-caret-right {
+	width: 10px;
+	height: 28px;
+}
+.icon-bell {
+	width: 28px;
+	height: 28px;
 }
 .icon-angle-right {
 	width: 10px;
 	height: 28px;
 }
-#icon-arrow-left .path1 {
-	fill: currentcolor;
+.icon-angle-down {
+	width: 18px;
+	height: 28px;
+}
+.icon-circle-o {
+	width: 28px;
+	height: 28px;
+}
+.icon-chevron-circle-left {
+	width: 28px;
+	height: 28px;
+}
+.icon-chevron-circle-right {
+	width: 28px;
+	height: 28px;
+}
+.icon-chevron-circle-up {
+	width: 28px;
+	height: 28px;
+}
+.icon-chevron-circle-down {
+	width: 28px;
+	height: 28px;
+}
+.icon-line-chart {
+	width: 32px;
+	height: 28px;
+}
+.icon-search {
+	width: 26px;
+	height: 28px;
+}
+.icon-check {
+	width: 28px;
+	height: 28px;
+}
+.icon-times {
+	width: 22px;
+	height: 28px;
+}
+.icon-comment {
+	width: 28px;
+	height: 28px;
+}
+.icon-bar-chart-o {
+	width: 30px;
+	height: 28px;
+}
+.icon-navicon {
+	width: 28px;
+	height: 28px;
 }
 .icon-spinner {
 	width: 25px;
 	height: 28px;
 }
-#icon-arrow-left .path1 {
-	fill: currentcolor;
-}
 .icon-circle {
 	width: 28px;
 	height: 28px;
-}
-#icon-arrow-left .path1 {
-	fill: currentcolor;
 }
 .icon-microphone {
 	width: 18px;
 	height: 28px;
 }
-#icon-arrow-left .path1 {
-	fill: currentcolor;
-}
 .icon-share-alt {
 	width: 28px;
 	height: 28px;
-}
-#icon-arrow-left .path1 {
-	fill: currentcolor;
-}
-.icon-home {
-	width: 32px;
-	height: 32px;
-}
-#icon-home .path1 {
-	fill: currentcolor;
-}
-.icon-quill {
-	width: 32px;
-	height: 32px;
-}
-#icon-quill .path1 {
-	fill: currentcolor;
-}
-.icon-profile {
-	width: 32px;
-	height: 32px;
-}
-#icon-profile .path1 {
-	fill: currentcolor;
-}
-.icon-user {
-	width: 32px;
-	height: 32px;
-}
-#icon-user .path1 {
-	fill: currentcolor;
-}
-.icon-cog {
-	width: 32px;
-	height: 32px;
-}
-#icon-cog .path1 {
-	fill: currentcolor;
-}
-.icon-thumbs-up {
-	width: 32px;
-	height: 32px;
-}
-#icon-thumbs-up .path1 {
-	fill: currentcolor;
-}
-.icon-warning {
-	width: 32px;
-	height: 32px;
-}
-#icon-warning .path1 {
-	fill: currentcolor;
-}
-.icon-enter {
-	width: 32px;
-	height: 32px;
-}
-#icon-enter .path1 {
-	fill: currentcolor;
-}
-.icon-arrow-right {
-	width: 32px;
-	height: 32px;
-}
-#icon-arrow-right .path1 {
-	fill: currentcolor;
-}
-.icon-arrow-left {
-	width: 32px;
-	height: 32px;
-}
-#icon-arrow-left .path1 {
-	fill: currentcolor;
 }
