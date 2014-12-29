@@ -3,6 +3,46 @@
 	color: #000000;
 	fill: currentColor;
 }
+.icon-file-o {
+	width: 28px;
+	height: 28px;
+}
+.icon-file-text-o {
+	width: 28px;
+	height: 28px;
+}
+.icon-file-pdf-o {
+	width: 28px;
+	height: 28px;
+}
+.icon-file-word-o {
+	width: 28px;
+	height: 28px;
+}
+.icon-file-excel-o {
+	width: 28px;
+	height: 28px;
+}
+.icon-file-powerpoint-o {
+	width: 28px;
+	height: 28px;
+}
+.icon-file-image-o {
+	width: 28px;
+	height: 28px;
+}
+.icon-file-archive-o {
+	width: 28px;
+	height: 28px;
+}
+.icon-file-audio-o {
+	width: 28px;
+	height: 28px;
+}
+.icon-file-movie-o {
+	width: 28px;
+	height: 28px;
+}
 .icon-star {
 	width: 26px;
 	height: 28px;
