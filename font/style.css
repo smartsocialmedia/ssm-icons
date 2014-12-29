@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'ssm-icons';
-	src:url('fonts/ssm-icons.eot?skezei');
-	src:url('fonts/ssm-icons.eot?#iefixskezei') format('embedded-opentype'),
-		url('fonts/ssm-icons.woff?skezei') format('woff'),
-		url('fonts/ssm-icons.ttf?skezei') format('truetype'),
-		url('fonts/ssm-icons.svg?skezei#ssm-icons') format('svg');
+	src:url('fonts/ssm-icons.eot?-jlwjq9');
+	src:url('fonts/ssm-icons.eot?#iefix-jlwjq9') format('embedded-opentype'),
+		url('fonts/ssm-icons.woff?-jlwjq9') format('woff'),
+		url('fonts/ssm-icons.ttf?-jlwjq9') format('truetype'),
+		url('fonts/ssm-icons.svg?-jlwjq9#ssm-icons') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -23,6 +23,36 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
+.ssm-icon-file-o:before {
+	content: "\f016";
+}
+.ssm-icon-file-text-o:before {
+	content: "\f0f6";
+}
+.ssm-icon-file-pdf-o:before {
+	content: "\f1c1";
+}
+.ssm-icon-file-word-o:before {
+	content: "\f1c2";
+}
+.ssm-icon-file-excel-o:before {
+	content: "\f1c3";
+}
+.ssm-icon-file-powerpoint-o:before {
+	content: "\f1c4";
+}
+.ssm-icon-file-image-o:before {
+	content: "\f1c5";
+}
+.ssm-icon-file-archive-o:before {
+	content: "\f1c6";
+}
+.ssm-icon-file-audio-o:before {
+	content: "\f1c7";
+}
+.ssm-icon-file-movie-o:before {
+	content: "\f1c8";
+}
 .ssm-icon-star:before {
 	content: "\f005";
 }
