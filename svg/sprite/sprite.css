@@ -3,233 +3,243 @@
 	background-repeat: no-repeat;
 	background-image: url(sprite.svg);
 }
+.icon-newspaper {
+	width: 30px;
+	height: 22px;
+	background-position: 0 0;
+}
+.icon-notification {
+	width: 22px;
+	height: 22px;
+	background-position: -38px 0;
+}
 .icon-file-o {
 	width: 28px;
 	height: 28px;
-	background-position: 0 0;
+	background-position: 0 -38px;
 }
 .icon-file-text-o {
 	width: 28px;
 	height: 28px;
-	background-position: -44px 0;
+	background-position: -44px -38px;
 }
 .icon-file-pdf-o {
 	width: 28px;
 	height: 28px;
-	background-position: -88px 0;
+	background-position: -88px -38px;
 }
 .icon-file-word-o {
 	width: 28px;
 	height: 28px;
-	background-position: -132px 0;
+	background-position: -132px -38px;
 }
 .icon-file-excel-o {
 	width: 28px;
 	height: 28px;
-	background-position: -176px 0;
+	background-position: -176px -38px;
 }
 .icon-file-powerpoint-o {
 	width: 28px;
 	height: 28px;
-	background-position: -220px 0;
+	background-position: -220px -38px;
 }
 .icon-file-image-o {
 	width: 28px;
 	height: 28px;
-	background-position: -264px 0;
+	background-position: -264px -38px;
 }
 .icon-file-archive-o {
 	width: 28px;
 	height: 28px;
-	background-position: -308px 0;
+	background-position: -308px -38px;
 }
 .icon-file-audio-o {
 	width: 28px;
 	height: 28px;
-	background-position: -352px 0;
+	background-position: -352px -38px;
 }
 .icon-file-movie-o {
 	width: 28px;
 	height: 28px;
-	background-position: -396px 0;
+	background-position: -396px -38px;
 }
 .icon-star {
 	width: 26px;
 	height: 28px;
-	background-position: -440px 0;
+	background-position: -440px -38px;
 }
 .icon-user {
 	width: 22px;
 	height: 28px;
-	background-position: -484px 0;
+	background-position: -484px -38px;
 }
 .icon-cog {
 	width: 28px;
 	height: 28px;
-	background-position: -528px 0;
+	background-position: -528px -38px;
 }
 .icon-home {
 	width: 26px;
 	height: 28px;
-	background-position: -572px 0;
+	background-position: -572px -38px;
 }
 .icon-camera {
 	width: 30px;
 	height: 28px;
-	background-position: -616px 0;
+	background-position: -616px -38px;
 }
 .icon-plus-circle {
 	width: 28px;
 	height: 28px;
-	background-position: -660px 0;
+	background-position: -660px -38px;
 }
 .icon-minus-circle {
 	width: 28px;
 	height: 28px;
-	background-position: 0 -44px;
+	background-position: 0 -82px;
 }
 .icon-times-circle {
 	width: 28px;
 	height: 28px;
-	background-position: -44px -44px;
+	background-position: -44px -82px;
 }
 .icon-check-circle {
 	width: 28px;
 	height: 28px;
-	background-position: -88px -44px;
+	background-position: -88px -82px;
 }
 .icon-question-circle {
 	width: 28px;
 	height: 28px;
-	background-position: -132px -44px;
+	background-position: -132px -82px;
 }
 .icon-times-circle-o {
 	width: 28px;
 	height: 28px;
-	background-position: -176px -44px;
+	background-position: -176px -82px;
 }
 .icon-thumbs-o-up {
 	width: 28px;
 	height: 28px;
-	background-position: -220px -44px;
+	background-position: -220px -82px;
 }
 .icon-group {
 	width: 30px;
 	height: 28px;
-	background-position: -264px -44px;
+	background-position: -264px -82px;
 }
 .icon-caret-down {
 	width: 16px;
 	height: 28px;
-	background-position: -308px -44px;
+	background-position: -308px -82px;
 }
 .icon-caret-up {
 	width: 16px;
 	height: 28px;
-	background-position: -352px -44px;
+	background-position: -352px -82px;
 }
 .icon-caret-left {
 	width: 10px;
 	height: 28px;
-	background-position: -396px -44px;
+	background-position: -396px -82px;
 }
 .icon-caret-right {
 	width: 10px;
 	height: 28px;
-	background-position: -440px -44px;
+	background-position: -440px -82px;
 }
 .icon-bell {
 	width: 28px;
 	height: 28px;
-	background-position: -484px -44px;
+	background-position: -484px -82px;
 }
 .icon-angle-right {
 	width: 10px;
 	height: 28px;
-	background-position: -528px -44px;
+	background-position: -528px -82px;
 }
 .icon-angle-down {
 	width: 18px;
 	height: 28px;
-	background-position: -572px -44px;
+	background-position: -572px -82px;
 }
 .icon-circle-o {
 	width: 28px;
 	height: 28px;
-	background-position: -616px -44px;
+	background-position: -616px -82px;
 }
 .icon-chevron-circle-left {
 	width: 28px;
 	height: 28px;
-	background-position: -660px -44px;
+	background-position: -660px -82px;
 }
 .icon-chevron-circle-right {
 	width: 28px;
 	height: 28px;
-	background-position: 0 -88px;
+	background-position: 0 -126px;
 }
 .icon-chevron-circle-up {
 	width: 28px;
 	height: 28px;
-	background-position: -44px -88px;
+	background-position: -44px -126px;
 }
 .icon-chevron-circle-down {
 	width: 28px;
 	height: 28px;
-	background-position: -88px -88px;
+	background-position: -88px -126px;
 }
 .icon-line-chart {
 	width: 32px;
 	height: 28px;
-	background-position: -132px -88px;
+	background-position: -132px -126px;
 }
 .icon-search {
 	width: 26px;
 	height: 28px;
-	background-position: -176px -88px;
+	background-position: -176px -126px;
 }
 .icon-check {
 	width: 28px;
 	height: 28px;
-	background-position: -220px -88px;
+	background-position: -220px -126px;
 }
 .icon-times {
 	width: 22px;
 	height: 28px;
-	background-position: -264px -88px;
+	background-position: -264px -126px;
 }
 .icon-comment {
 	width: 28px;
 	height: 28px;
-	background-position: -308px -88px;
+	background-position: -308px -126px;
 }
 .icon-bar-chart-o {
 	width: 30px;
 	height: 28px;
-	background-position: -352px -88px;
+	background-position: -352px -126px;
 }
 .icon-navicon {
 	width: 28px;
 	height: 28px;
-	background-position: -396px -88px;
+	background-position: -396px -126px;
 }
 .icon-spinner {
 	width: 25px;
 	height: 28px;
-	background-position: -440px -88px;
+	background-position: -440px -126px;
 }
 .icon-circle {
 	width: 28px;
 	height: 28px;
-	background-position: -484px -88px;
+	background-position: -484px -126px;
 }
 .icon-microphone {
 	width: 18px;
 	height: 28px;
-	background-position: -528px -88px;
+	background-position: -528px -126px;
 }
 .icon-share-alt {
 	width: 28px;
 	height: 28px;
-	background-position: -572px -88px;
+	background-position: -572px -126px;
 }

@@ -51,6 +51,9 @@ input:focus {
 	float: left;
 	overflow: hidden;
 }
+.glyph svg {
+	color: #000000;
+}
 .liga {
 	width: 80%;
 	width: calc(100% - 2.5em);
@@ -64,11 +67,11 @@ input:focus {
 .bgc1 {
 	background: #f1f1f1;
 }
-.fgc1 {
-	color: #999;
-}
 .fgc0 {
 	color: #000;
+}
+.fgc1 {
+	color: #999;
 }
 p {
 	margin-top: 1em;
@@ -140,5 +143,8 @@ p {
 	font-size: 16px;
 }
 .fs1 {
+	font-size: 22px;
+}
+.fs2 {
 	font-size: 28px;
 }

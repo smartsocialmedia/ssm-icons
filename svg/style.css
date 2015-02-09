@@ -1,189 +1,88 @@
 .icon {
 	display: inline-block;
-	color: #000000;
+	width: 1em;
+	height: 1em;
 	fill: currentColor;
 }
-.icon-file-o {
-	width: 28px;
-	height: 28px;
+
+.icon-newspaper {
+	width: 1.375em;
 }
-.icon-file-text-o {
-	width: 28px;
-	height: 28px;
+
+.icon-newspaper {
+	width: 1.375em;
 }
-.icon-file-pdf-o {
-	width: 28px;
-	height: 28px;
+#icon-notification .path1 {
+	fill: rgb(0, 119, 147);
 }
-.icon-file-word-o {
-	width: 28px;
-	height: 28px;
+#icon-notification .path2 {
+	fill: rgb(153, 153, 153);
 }
-.icon-file-excel-o {
-	width: 28px;
-	height: 28px;
-}
-.icon-file-powerpoint-o {
-	width: 28px;
-	height: 28px;
-}
-.icon-file-image-o {
-	width: 28px;
-	height: 28px;
-}
-.icon-file-archive-o {
-	width: 28px;
-	height: 28px;
-}
-.icon-file-audio-o {
-	width: 28px;
-	height: 28px;
-}
-.icon-file-movie-o {
-	width: 28px;
-	height: 28px;
-}
+
 .icon-star {
-	width: 26px;
-	height: 28px;
+	width: 0.9287109375em;
 }
+
 .icon-user {
-	width: 22px;
-	height: 28px;
+	width: 0.7861328125em;
 }
-.icon-cog {
-	width: 28px;
-	height: 28px;
-}
+
 .icon-home {
-	width: 26px;
-	height: 28px;
+	width: 0.9287109375em;
 }
+
 .icon-camera {
-	width: 30px;
-	height: 28px;
+	width: 1.0712890625em;
 }
-.icon-plus-circle {
-	width: 28px;
-	height: 28px;
-}
-.icon-minus-circle {
-	width: 28px;
-	height: 28px;
-}
-.icon-times-circle {
-	width: 28px;
-	height: 28px;
-}
-.icon-check-circle {
-	width: 28px;
-	height: 28px;
-}
-.icon-question-circle {
-	width: 28px;
-	height: 28px;
-}
-.icon-times-circle-o {
-	width: 28px;
-	height: 28px;
-}
-.icon-thumbs-o-up {
-	width: 28px;
-	height: 28px;
-}
+
 .icon-group {
-	width: 30px;
-	height: 28px;
+	width: 1.0712890625em;
 }
+
 .icon-caret-down {
-	width: 16px;
-	height: 28px;
+	width: 0.5712890625em;
 }
+
 .icon-caret-up {
-	width: 16px;
-	height: 28px;
+	width: 0.5712890625em;
 }
+
 .icon-caret-left {
-	width: 10px;
-	height: 28px;
+	width: 0.357421875em;
 }
+
 .icon-caret-right {
-	width: 10px;
-	height: 28px;
+	width: 0.357421875em;
 }
-.icon-bell {
-	width: 28px;
-	height: 28px;
-}
+
 .icon-angle-right {
-	width: 10px;
-	height: 28px;
+	width: 0.357421875em;
 }
+
 .icon-angle-down {
-	width: 18px;
-	height: 28px;
+	width: 0.642578125em;
 }
-.icon-circle-o {
-	width: 28px;
-	height: 28px;
-}
-.icon-chevron-circle-left {
-	width: 28px;
-	height: 28px;
-}
-.icon-chevron-circle-right {
-	width: 28px;
-	height: 28px;
-}
-.icon-chevron-circle-up {
-	width: 28px;
-	height: 28px;
-}
-.icon-chevron-circle-down {
-	width: 28px;
-	height: 28px;
-}
+
 .icon-line-chart {
-	width: 32px;
-	height: 28px;
+	width: 1.142578125em;
 }
+
 .icon-search {
-	width: 26px;
-	height: 28px;
+	width: 0.9287109375em;
 }
-.icon-check {
-	width: 28px;
-	height: 28px;
-}
+
 .icon-times {
-	width: 22px;
-	height: 28px;
+	width: 0.7861328125em;
 }
-.icon-comment {
-	width: 28px;
-	height: 28px;
-}
+
 .icon-bar-chart-o {
-	width: 30px;
-	height: 28px;
+	width: 1.0712890625em;
 }
-.icon-navicon {
-	width: 28px;
-	height: 28px;
-}
+
 .icon-spinner {
-	width: 25px;
-	height: 28px;
+	width: 0.875em;
 }
-.icon-circle {
-	width: 28px;
-	height: 28px;
-}
+
 .icon-microphone {
-	width: 18px;
-	height: 28px;
-}
-.icon-share-alt {
-	width: 28px;
-	height: 28px;
+	width: 0.642578125em;
 }
