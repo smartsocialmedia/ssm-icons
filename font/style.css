@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'ssm-icons';
-	src:url('fonts/ssm-icons.eot?-w7ce22');
-	src:url('fonts/ssm-icons.eot?#iefix-w7ce22') format('embedded-opentype'),
-		url('fonts/ssm-icons.woff?-w7ce22') format('woff'),
-		url('fonts/ssm-icons.ttf?-w7ce22') format('truetype'),
-		url('fonts/ssm-icons.svg?-w7ce22#ssm-icons') format('svg');
+	src:url('fonts/ssm-icons.eot?-qc3841');
+	src:url('fonts/ssm-icons.eot?#iefix-qc3841') format('embedded-opentype'),
+		url('fonts/ssm-icons.woff?-qc3841') format('woff'),
+		url('fonts/ssm-icons.ttf?-qc3841') format('truetype'),
+		url('fonts/ssm-icons.svg?-qc3841#ssm-icons') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -23,18 +23,20 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
-.ssm-icon-newspaper:before {
-	content: "\e600";
+.ssm-icon-magnifying-glass:before {
+	content: "\e601";
 }
 
-.ssm-icon-notification .path1:before {
-	content: "\e601";
-	color: rgb(0, 119, 147);
-}
-.ssm-icon-notification .path2:before {
+.ssm-icon-menu-toggle:before {
 	content: "\e602";
-	margin-left: -1em;
-	color: rgb(153, 153, 153);
+}
+
+.ssm-icon-notification:before {
+	content: "\e603";
+}
+
+.ssm-icon-newspaper:before {
+	content: "\e600";
 }
 
 .ssm-icon-file-o:before {

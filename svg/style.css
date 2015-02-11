@@ -5,18 +5,16 @@
 	fill: currentColor;
 }
 
-.icon-newspaper {
-	width: 1.375em;
+.icon-magnifying-glass {
+	width: 1.0498046875em;
+}
+
+.icon-menu-toggle {
+	width: 0.2275390625em;
 }
 
 .icon-newspaper {
 	width: 1.375em;
-}
-#icon-notification .path1 {
-	fill: rgb(0, 119, 147);
-}
-#icon-notification .path2 {
-	fill: rgb(153, 153, 153);
 }
 
 .icon-star {
