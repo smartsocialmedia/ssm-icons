@@ -51,7 +51,7 @@ input:focus {
 	float: left;
 	overflow: hidden;
 }
-.glyph svg {
+svg {
 	color: #000000;
 }
 .liga {
@@ -143,5 +143,5 @@ p {
 	font-size: 16px;
 }
 .fs1 {
-	font-size: 22px;
+	font-size: 32px;
 }
