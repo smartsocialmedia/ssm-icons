@@ -1,270 +1,276 @@
 .icon {
-	display: inline-block;
-	background-repeat: no-repeat;
-	background-image: url(sprite.svg);
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-image: url(sprite.svg);
+}
+.icon-pencil {
+  width: 24px;
+  height: 28px;
+  background-position: 0 0;
 }
 .icon-calendar {
-	width: 32px;
-	height: 32px;
-	background-position: 0 0;
+  width: 28px;
+  height: 28px;
+  background-position: -44px 0;
 }
 .icon-placeholder-community {
-	width: 32px;
-	height: 32px;
-	background-position: -48px 0;
+  width: 28px;
+  height: 28px;
+  background-position: -88px 0;
 }
 .icon-placeholder-user {
-	width: 32px;
-	height: 32px;
-	background-position: -96px 0;
+  width: 28px;
+  height: 28px;
+  background-position: -132px 0;
 }
 .icon-magnifying-glass {
-	width: 34px;
-	height: 32px;
-	background-position: -144px 0;
+  width: 29px;
+  height: 28px;
+  background-position: -176px 0;
 }
 .icon-menu-toggle {
-	width: 7px;
-	height: 32px;
-	background-position: -192px 0;
+  width: 6px;
+  height: 28px;
+  background-position: -220px 0;
 }
 .icon-notification {
-	width: 32px;
-	height: 32px;
-	background-position: -240px 0;
+  width: 28px;
+  height: 28px;
+  background-position: -264px 0;
 }
 .icon-newspaper {
-	width: 44px;
-	height: 32px;
-	background-position: -288px 0;
+  width: 39px;
+  height: 28px;
+  background-position: -308px 0;
 }
 .icon-file-o {
-	width: 32px;
-	height: 32px;
-	background-position: -336px 0;
+  width: 28px;
+  height: 28px;
+  background-position: -396px 0;
 }
 .icon-file-text-o {
-	width: 32px;
-	height: 32px;
-	background-position: -384px 0;
+  width: 28px;
+  height: 28px;
+  background-position: -440px 0;
 }
 .icon-file-pdf-o {
-	width: 32px;
-	height: 32px;
-	background-position: -432px 0;
+  width: 28px;
+  height: 28px;
+  background-position: -484px 0;
 }
 .icon-file-word-o {
-	width: 32px;
-	height: 32px;
-	background-position: -480px 0;
+  width: 28px;
+  height: 28px;
+  background-position: -528px 0;
 }
 .icon-file-excel-o {
-	width: 32px;
-	height: 32px;
-	background-position: -528px 0;
+  width: 28px;
+  height: 28px;
+  background-position: -572px 0;
 }
 .icon-file-powerpoint-o {
-	width: 32px;
-	height: 32px;
-	background-position: -576px 0;
+  width: 28px;
+  height: 28px;
+  background-position: -616px 0;
 }
 .icon-file-image-o {
-	width: 32px;
-	height: 32px;
-	background-position: -624px 0;
+  width: 28px;
+  height: 28px;
+  background-position: -660px 0;
 }
 .icon-file-archive-o {
-	width: 32px;
-	height: 32px;
-	background-position: -672px 0;
+  width: 28px;
+  height: 28px;
+  background-position: 0 -44px;
 }
 .icon-file-audio-o {
-	width: 32px;
-	height: 32px;
-	background-position: -720px 0;
+  width: 28px;
+  height: 28px;
+  background-position: -44px -44px;
 }
 .icon-file-movie-o {
-	width: 32px;
-	height: 32px;
-	background-position: 0 -48px;
+  width: 28px;
+  height: 28px;
+  background-position: -88px -44px;
 }
 .icon-star {
-	width: 30px;
-	height: 32px;
-	background-position: -48px -48px;
+  width: 26px;
+  height: 28px;
+  background-position: -132px -44px;
 }
 .icon-user {
-	width: 25px;
-	height: 32px;
-	background-position: -96px -48px;
+  width: 22px;
+  height: 28px;
+  background-position: -176px -44px;
 }
 .icon-cog {
-	width: 32px;
-	height: 32px;
-	background-position: -144px -48px;
+  width: 28px;
+  height: 28px;
+  background-position: -220px -44px;
 }
 .icon-home {
-	width: 30px;
-	height: 32px;
-	background-position: -192px -48px;
+  width: 26px;
+  height: 28px;
+  background-position: -264px -44px;
 }
 .icon-camera {
-	width: 34px;
-	height: 32px;
-	background-position: -240px -48px;
+  width: 30px;
+  height: 28px;
+  background-position: -308px -44px;
 }
 .icon-plus-circle {
-	width: 32px;
-	height: 32px;
-	background-position: -288px -48px;
+  width: 28px;
+  height: 28px;
+  background-position: -352px -44px;
 }
 .icon-minus-circle {
-	width: 32px;
-	height: 32px;
-	background-position: -336px -48px;
+  width: 28px;
+  height: 28px;
+  background-position: -396px -44px;
 }
 .icon-times-circle {
-	width: 32px;
-	height: 32px;
-	background-position: -384px -48px;
+  width: 28px;
+  height: 28px;
+  background-position: -440px -44px;
 }
 .icon-check-circle {
-	width: 32px;
-	height: 32px;
-	background-position: -432px -48px;
+  width: 28px;
+  height: 28px;
+  background-position: -484px -44px;
 }
 .icon-question-circle {
-	width: 32px;
-	height: 32px;
-	background-position: -480px -48px;
+  width: 28px;
+  height: 28px;
+  background-position: -528px -44px;
 }
 .icon-times-circle-o {
-	width: 32px;
-	height: 32px;
-	background-position: -528px -48px;
+  width: 28px;
+  height: 28px;
+  background-position: -572px -44px;
 }
 .icon-thumbs-o-up {
-	width: 32px;
-	height: 32px;
-	background-position: -576px -48px;
+  width: 28px;
+  height: 28px;
+  background-position: -616px -44px;
 }
 .icon-group {
-	width: 34px;
-	height: 32px;
-	background-position: -624px -48px;
+  width: 30px;
+  height: 28px;
+  background-position: 0 -88px;
 }
 .icon-caret-down {
-	width: 18px;
-	height: 32px;
-	background-position: -672px -48px;
+  width: 16px;
+  height: 28px;
+  background-position: -44px -88px;
 }
 .icon-caret-up {
-	width: 18px;
-	height: 32px;
-	background-position: -720px -48px;
+  width: 16px;
+  height: 28px;
+  background-position: -88px -88px;
 }
 .icon-caret-left {
-	width: 11px;
-	height: 32px;
-	background-position: 0 -96px;
+  width: 10px;
+  height: 28px;
+  background-position: -132px -88px;
 }
 .icon-caret-right {
-	width: 11px;
-	height: 32px;
-	background-position: -48px -96px;
+  width: 10px;
+  height: 28px;
+  background-position: -176px -88px;
 }
 .icon-bell {
-	width: 32px;
-	height: 32px;
-	background-position: -96px -96px;
+  width: 28px;
+  height: 28px;
+  background-position: -220px -88px;
 }
 .icon-angle-right {
-	width: 11px;
-	height: 32px;
-	background-position: -144px -96px;
+  width: 10px;
+  height: 28px;
+  background-position: -264px -88px;
 }
 .icon-angle-down {
-	width: 21px;
-	height: 32px;
-	background-position: -192px -96px;
+  width: 18px;
+  height: 28px;
+  background-position: -308px -88px;
 }
 .icon-circle-o {
-	width: 32px;
-	height: 32px;
-	background-position: -240px -96px;
+  width: 28px;
+  height: 28px;
+  background-position: -352px -88px;
 }
 .icon-chevron-circle-left {
-	width: 32px;
-	height: 32px;
-	background-position: -288px -96px;
+  width: 28px;
+  height: 28px;
+  background-position: -396px -88px;
 }
 .icon-chevron-circle-right {
-	width: 32px;
-	height: 32px;
-	background-position: -336px -96px;
+  width: 28px;
+  height: 28px;
+  background-position: -440px -88px;
 }
 .icon-chevron-circle-up {
-	width: 32px;
-	height: 32px;
-	background-position: -384px -96px;
+  width: 28px;
+  height: 28px;
+  background-position: -484px -88px;
 }
 .icon-chevron-circle-down {
-	width: 32px;
-	height: 32px;
-	background-position: -432px -96px;
+  width: 28px;
+  height: 28px;
+  background-position: -528px -88px;
 }
 .icon-line-chart {
-	width: 37px;
-	height: 32px;
-	background-position: -480px -96px;
+  width: 32px;
+  height: 28px;
+  background-position: -572px -88px;
 }
 .icon-search {
-	width: 30px;
-	height: 32px;
-	background-position: -528px -96px;
+  width: 26px;
+  height: 28px;
+  background-position: -616px -88px;
 }
 .icon-check {
-	width: 32px;
-	height: 32px;
-	background-position: -576px -96px;
+  width: 28px;
+  height: 28px;
+  background-position: -660px -88px;
 }
 .icon-times {
-	width: 25px;
-	height: 32px;
-	background-position: -624px -96px;
+  width: 22px;
+  height: 28px;
+  background-position: 0 -132px;
 }
 .icon-comment {
-	width: 32px;
-	height: 32px;
-	background-position: -672px -96px;
+  width: 28px;
+  height: 28px;
+  background-position: -44px -132px;
 }
 .icon-bar-chart-o {
-	width: 34px;
-	height: 32px;
-	background-position: -720px -96px;
+  width: 30px;
+  height: 28px;
+  background-position: -88px -132px;
 }
 .icon-navicon {
-	width: 32px;
-	height: 32px;
-	background-position: 0 -144px;
+  width: 28px;
+  height: 28px;
+  background-position: -132px -132px;
 }
 .icon-spinner {
-	width: 28px;
-	height: 32px;
-	background-position: -48px -144px;
+  width: 25px;
+  height: 28px;
+  background-position: -176px -132px;
 }
 .icon-circle {
-	width: 32px;
-	height: 32px;
-	background-position: -96px -144px;
+  width: 28px;
+  height: 28px;
+  background-position: -220px -132px;
 }
 .icon-microphone {
-	width: 21px;
-	height: 32px;
-	background-position: -144px -144px;
+  width: 18px;
+  height: 28px;
+  background-position: -264px -132px;
 }
 .icon-share-alt {
-	width: 32px;
-	height: 32px;
-	background-position: -192px -144px;
+  width: 28px;
+  height: 28px;
+  background-position: -308px -132px;
 }
+

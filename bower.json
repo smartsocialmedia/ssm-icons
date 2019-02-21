@@ -1,15 +1,16 @@
 {
   "name": "ssm-icons",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "homepage": "https://github.com/smartsocialmedia/ssm-icons",
   "authors": [
-    "Shawn Larson <shawn.larson@smartsocialmedia.com>"
+    "Shawn Larson <shawn.larson@smartsocialmedia.com>",
+    "Martin Fracker <martin.fracker@improving.com"
   ],
   "description": "SVG and Font Icons",
   "main": [
-    "svg/style.css", 
-    "svg/SVG/**/*", 
-    "font/style.css", 
+    "svg/style.css",
+    "svg/SVG/**/*",
+    "font/style.css",
     "font/fonts/**/*"
   ],
   "moduleType": [

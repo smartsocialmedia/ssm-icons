@@ -1,94 +1,100 @@
 .icon {
-	display: inline-block;
-	width: 1em;
-	height: 1em;
-	fill: currentColor;
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  stroke-width: 0;
+  stroke: currentColor;
+  fill: currentColor;
 }
 
-/* ================================================================================
-Example showing how to change the color/size of the icons:
+/* ==========================================
+Single-colored icons can be modified like so:
 .icon-name {
-	font-size: 32px; // works because "width" & "height" were set using em units
-	color: red; // works because "fill" was set to "currentColor"
+  font-size: 32px;
+  color: red;
 }
-================================================================================ */
+========================================== */
+
+.icon-pencil {
+  width: 0.8454285714285714em;
+}
 
 .icon-magnifying-glass {
-	width: 1.0498046875em;
+  width: 1.0498046875em;
 }
 
 .icon-menu-toggle {
-	width: 0.2275390625em;
+  width: 0.2275390625em;
 }
 
 .icon-newspaper {
-	width: 1.375em;
+  width: 1.375em;
 }
 
 .icon-star {
-	width: 0.9287109375em;
+  width: 0.9287109375em;
 }
 
 .icon-user {
-	width: 0.7861328125em;
+  width: 0.7861328125em;
 }
 
 .icon-home {
-	width: 0.9287109375em;
+  width: 0.9287109375em;
 }
 
 .icon-camera {
-	width: 1.0712890625em;
+  width: 1.0712890625em;
 }
 
 .icon-group {
-	width: 1.0712890625em;
+  width: 1.0712890625em;
 }
 
 .icon-caret-down {
-	width: 0.5712890625em;
+  width: 0.5712890625em;
 }
 
 .icon-caret-up {
-	width: 0.5712890625em;
+  width: 0.5712890625em;
 }
 
 .icon-caret-left {
-	width: 0.357421875em;
+  width: 0.357421875em;
 }
 
 .icon-caret-right {
-	width: 0.357421875em;
+  width: 0.357421875em;
 }
 
 .icon-angle-right {
-	width: 0.357421875em;
+  width: 0.357421875em;
 }
 
 .icon-angle-down {
-	width: 0.642578125em;
+  width: 0.642578125em;
 }
 
 .icon-line-chart {
-	width: 1.142578125em;
+  width: 1.142578125em;
 }
 
 .icon-search {
-	width: 0.9287109375em;
+  width: 0.9287109375em;
 }
 
 .icon-times {
-	width: 0.7861328125em;
+  width: 0.7861328125em;
 }
 
 .icon-bar-chart-o {
-	width: 1.0712890625em;
+  width: 1.0712890625em;
 }
 
 .icon-spinner {
-	width: 0.875em;
+  width: 0.875em;
 }
 
 .icon-microphone {
-	width: 0.642578125em;
+  width: 0.642578125em;
 }
