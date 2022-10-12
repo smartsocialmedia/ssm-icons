@@ -1,0 +1,20 @@
+{
+  "name": "ssm-icons",
+  "version": "1.0.0",
+  "description": "This is a bower component for use within SSM applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smartsocialmedia/ssm-icons.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smartsocialmedia/ssm-icons/issues"
+  },
+  "homepage": "https://github.com/smartsocialmedia/ssm-icons#readme"
+}
